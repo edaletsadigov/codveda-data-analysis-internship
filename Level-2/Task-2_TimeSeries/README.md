@@ -13,4 +13,3 @@
 - Clear **upward trend** in AAPL stock price across 2014–2017
 - Seasonal patterns visible at regular intervals
 - Rolling average (window=30) effectively removes daily noise
-
