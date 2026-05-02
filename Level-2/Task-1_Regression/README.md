@@ -19,3 +19,4 @@
 Polynomial transformation captured non-linear relationships between
 housing features and price, improving predictive accuracy over
 the linear baseline.
+
